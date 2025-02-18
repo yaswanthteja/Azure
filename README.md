@@ -2,3 +2,4 @@
 
 - Virtual Networks
 - subnet
+- Virtual machines
