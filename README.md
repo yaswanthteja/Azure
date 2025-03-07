@@ -16,7 +16,7 @@
 
 # Azure RoadMap
 
-- Step 1: Understanding Cloud Computing & Azure Basics
+### Step 1: Understanding Cloud Computing & Azure Basics
 - Learn What is Cloud Computing? (IaaS, PaaS, SaaS)
 - Understand Azure Global Infrastructure (Regions, Availability Zones, Data Centers)
 - Create a Free Azure Account (Azure Free Tier)[https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount]
@@ -26,4 +26,13 @@
 🔹 Azure CLI & Azure PowerShell
 🔹 Azure Resource Manager (ARM)
 
+### Step 2: Core Azure Compute Services
+- Learn about Virtual Machines (VMs)
+- Understand Containers vs. VMs
+- Learn Serverless Computing
+📌 Azure Services:
+🔹 Azure Virtual Machines (VM)
+🔹 Azure App Service (Web Apps, API Apps)
+🔹 Azure Kubernetes Service (AKS)
+🔹 Azure Functions (Serverless Computing)
 
