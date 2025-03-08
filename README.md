@@ -36,3 +36,19 @@
 🔹 Azure Kubernetes Service (AKS)
 🔹 Azure Functions (Serverless Computing)
 
+### 3️⃣ Step 3: Azure Networking & Security
+- Learn about Virtual Networks (VNet)
+- Understand Load Balancing & Traffic Management
+- Explore Security & Identity Management
+📌 Azure Services:
+🔹 Azure Virtual Network (VNet)
+🔹 Azure Load Balancer
+🔹 Azure Application Gateway
+🔹 Azure Firewall
+🔹 Azure DDoS Protection
+🔹 Azure Active Directory (AAD)
+🔹 Azure VPN Gateway
+
+
+
+
