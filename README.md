@@ -50,5 +50,17 @@
 🔹 Azure VPN Gateway
 
 
+### 4️⃣ Step 4: Azure Storage & Databases
+- Understand Types of Azure Storage (Blob, File, Queue, Table)
+- Learn about Databases in Azure
+- Get familiar with Backup & Disaster Recovery
+📌 Azure Services:
+🔹 Azure Blob Storage (for unstructured data)
+🔹 Azure File Storage (SMB file shares)
+🔹 Azure SQL Database (Managed SQL)
+🔹 Azure Cosmos DB (NoSQL)
+🔹 Azure Storage Accounts
+🔹 Azure Backup & Recovery
+
 
 
