@@ -73,4 +73,10 @@
 🔹 Azure Bicep & ARM Templates
 🔹 Terraform on Azure
 
+### 6️⃣ Step 6: Advanced Topics & Specialization
+- Choose a specialization:
+- Security & Compliance → Azure Security Center, Defender for Cloud
+- Machine Learning & AI → Azure Machine Learning, Cognitive Services
+- Big Data & Analytics → Azure Synapse, Databricks, Data Factory
+
 
