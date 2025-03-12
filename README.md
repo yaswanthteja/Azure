@@ -22,9 +22,9 @@
 - Create a Free Azure Account (Azure Free Tier)[https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount]
 - Explore Azure Portal & Azure CLI
 📌 Azure Services:
-🔹 Azure Portal (GUI)
-🔹 Azure CLI & Azure PowerShell
-🔹 Azure Resource Manager (ARM)
+- 🔹 Azure Portal (GUI)
+- 🔹 Azure CLI & Azure PowerShell
+- 🔹 Azure Resource Manager (ARM)
 
 ### Step 2: Core Azure Compute Services
 - Learn about Virtual Machines (VMs)
