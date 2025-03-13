@@ -21,6 +21,7 @@
 - Understand Azure Global Infrastructure (Regions, Availability Zones, Data Centers)
 - Create a Free Azure Account (Azure Free Tier)[https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount]
 - Explore Azure Portal & Azure CLI
+  
 📌 Azure Services:
 - 🔹 Azure Portal (GUI)
 - 🔹 Azure CLI & Azure PowerShell
@@ -30,16 +31,18 @@
 - Learn about Virtual Machines (VMs)
 - Understand Containers vs. VMs
 - Learn Serverless Computing
+  
 📌 Azure Services:
-🔹 Azure Virtual Machines (VM)
-🔹 Azure App Service (Web Apps, API Apps)
-🔹 Azure Kubernetes Service (AKS)
-🔹 Azure Functions (Serverless Computing)
+- 🔹 Azure Virtual Machines (VM)
+- 🔹 Azure App Service (Web Apps, API Apps)
+- 🔹 Azure Kubernetes Service (AKS)
+-🔹 Azure Functions (Serverless Computing)
 
 ### 3️⃣ Step 3: Azure Networking & Security
 - Learn about Virtual Networks (VNet)
 - Understand Load Balancing & Traffic Management
 - Explore Security & Identity Management
+  
 📌 Azure Services:
 🔹 Azure Virtual Network (VNet)
 🔹 Azure Load Balancer
