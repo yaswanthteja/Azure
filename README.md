@@ -44,13 +44,13 @@
 - Explore Security & Identity Management
   
 📌 Azure Services:
-🔹 Azure Virtual Network (VNet)
-🔹 Azure Load Balancer
-🔹 Azure Application Gateway
-🔹 Azure Firewall
-🔹 Azure DDoS Protection
-🔹 Azure Active Directory (AAD)
-🔹 Azure VPN Gateway
+- 🔹 Azure Virtual Network (VNet)
+- 🔹 Azure Load Balancer
+- 🔹 Azure Application Gateway
+- 🔹 Azure Firewall
+- 🔹 Azure DDoS Protection
+- 🔹 Azure Active Directory (AAD)
+- 🔹 Azure VPN Gateway
 
 
 ### 4️⃣ Step 4: Azure Storage & Databases
