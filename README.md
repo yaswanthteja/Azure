@@ -58,12 +58,12 @@
 - Learn about Databases in Azure
 - Get familiar with Backup & Disaster Recovery
 📌 Azure Services:
-🔹 Azure Blob Storage (for unstructured data)
-🔹 Azure File Storage (SMB file shares)
-🔹 Azure SQL Database (Managed SQL)
-🔹 Azure Cosmos DB (NoSQL)
-🔹 Azure Storage Accounts
-🔹 Azure Backup & Recovery
+- 🔹 Azure Blob Storage (for unstructured data)
+- 🔹 Azure File Storage (SMB file shares)
+- 🔹 Azure SQL Database (Managed SQL)
+- 🔹 Azure Cosmos DB (NoSQL)
+- 🔹 Azure Storage Accounts
+- 🔹 Azure Backup & Recovery
 
 ### 5️⃣ Step 5: Azure Monitoring & DevOps
 - Learn Logging & Monitoring in Azure
