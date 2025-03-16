@@ -70,11 +70,11 @@
 - Understand CI/CD Pipelines with Azure DevOps
 - Explore Infrastructure as Code (IaC) with Terraform/Bicep
 📌 Azure Services:
-🔹 Azure Monitor (Logs, Metrics)
-🔹 Azure Application Insights
-🔹 Azure DevOps (CI/CD, Repos, Pipelines)
-🔹 Azure Bicep & ARM Templates
-🔹 Terraform on Azure
+- 🔹 Azure Monitor (Logs, Metrics)
+- 🔹 Azure Application Insights
+- 🔹 Azure DevOps (CI/CD, Repos, Pipelines)
+- 🔹 Azure Bicep & ARM Templates
+- 🔹 Terraform on Azure
 
 ### 6️⃣ Step 6: Advanced Topics & Specialization
 - Choose a specialization:
