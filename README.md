@@ -43,7 +43,7 @@
 - Understand Load Balancing & Traffic Management
 - Explore Security & Identity Management
   
-📌 Azure Services:
+#### 📌 Azure Services:
 - 🔹 Azure Virtual Network (VNet)
 - 🔹 Azure Load Balancer
 - 🔹 Azure Application Gateway
