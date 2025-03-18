@@ -22,7 +22,7 @@
 - Create a Free Azure Account (Azure Free Tier)[https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount]
 - Explore Azure Portal & Azure CLI
   
-📌 Azure Services:
+### 📌 Azure Services:
 - 🔹 Azure Portal (GUI)
 - 🔹 Azure CLI & Azure PowerShell
 - 🔹 Azure Resource Manager (ARM)
