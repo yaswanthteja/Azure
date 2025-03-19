@@ -19,7 +19,7 @@
 ### Step 1: Understanding Cloud Computing & Azure Basics
 - Learn What is Cloud Computing? (IaaS, PaaS, SaaS)
 - Understand Azure Global Infrastructure (Regions, Availability Zones, Data Centers)
-- Create a Free Azure Account (Azure Free Tier)[https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount]
+- Create a Free Azure Account [Azure Free Tier](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount)
 - Explore Azure Portal & Azure CLI
   
 ### 📌 Azure Services:
