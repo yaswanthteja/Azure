@@ -69,7 +69,7 @@
 - Learn Logging & Monitoring in Azure
 - Understand CI/CD Pipelines with Azure DevOps
 - Explore Infrastructure as Code (IaC) with Terraform/Bicep
-📌 Azure Services:
+### 📌 Azure Services:
 - 🔹 Azure Monitor (Logs, Metrics)
 - 🔹 Azure Application Insights
 - 🔹 Azure DevOps (CI/CD, Repos, Pipelines)
